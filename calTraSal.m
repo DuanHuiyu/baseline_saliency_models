@@ -12,9 +12,9 @@ clear all
 % path_stimuli = '..\..\SARD\small_size\Superimposed\';
 % path_write = '..\..\results\results_SARD\tra_results\Superimposed\';
 % path_stimuli = '..\..\SARD\small_size\AR\';
-% path_write = '..\..\results\results_SARD\results\tra_results\AR\';
+% path_write = '..\..\results\results_SARD\tra_results\AR\';
 % path_stimuli = '..\..\SARD\small_size\BG\';
-% path_write = '..\..\results\results_SARD\results\tra_results\BG\';
+% path_write = '..\..\results\results_SARD\tra_results\BG\';
 % path_stimuli = '..\..\SARD\small_size\Superimposed_crop\';
 % path_write = '..\..\results\results_SARD\tra_results\Superimposed_crop\';
 % path_stimuli = '..\..\SARD\small_size\AR_crop\';
